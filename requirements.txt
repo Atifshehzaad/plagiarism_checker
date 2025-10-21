@@ -2,4 +2,4 @@ streamlit
 PyPDF2
 pandas
 scikit-learn
-pip install matplotlib
+matplotlib
